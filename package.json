@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "homepage": "http://paragrajhans.github.io/shopping-cart",
-  "dependencies": {
+  "dependencies": {   
     "@progress/kendo-data-query": "^1.5.3",
     "@progress/kendo-react-data-tools": "^3.13.0",
     "@progress/kendo-react-dialogs": "^3.12.0",
