@@ -1,4 +1,4 @@
-[Click here for Live Demo](https://paragrajhans.github.io/shopping-cart/)
+[Click here for Live Demo](https://nitaiz123.github.io/shopping-cart/)
 
 ## Installation
 
